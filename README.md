@@ -1,4 +1,4 @@
-<h3 align="left">Q'hubo?, My name is Jhon Perez, Im 20 Years old  Im from colombia🇨🇴</h3>
+<h3 align="left">Q'hubo?, My name is Jhon Perez, Im 20 Years old  Im from colombia!</h3>
 
 ###
 
@@ -9,7 +9,9 @@
 
 ###
 
-<img align="right" height="150" src="https://www.gifcen.com/wp-content/uploads/2024/02/batman-gif-6.gif"  />
+<br clear="both">
+
+<img align="right" height="300" src="https://www.gifcen.com/wp-content/uploads/2024/02/batman-gif-6.gif"  />
 
 ###
 
@@ -33,13 +35,7 @@
 
 ###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/JhonPC-hub/JhonPC-hub/output/snake.svg" alt="Snake animation" />
-
-###
-
-<div align="center">
+<div align="left">
   <a href="https://open.spotify.com/user/eea4dsw88g71kmeugdtnk9fvi">
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=eea4dsw88g71kmeugdtnk9fvi&count=5&unique=true" alt="Spotify recently played"  />
   </a>
